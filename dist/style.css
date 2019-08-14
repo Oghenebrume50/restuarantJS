@@ -1,3 +1,28 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
 nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
   background-color: blue
+}
+
+nav div {
+  display: flex;
+  justify-content: space-around;
+  width: 40em;
+}
+
+#img-holder {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+#img-holder img {
+  width: 10em;
+  height: 10em;
 }
