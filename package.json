@@ -2,11 +2,11 @@
   "name": "restuarantJS",
   "version": "1.0.0",
   "description": "",
-  "private":true,
+  "private": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "watch":"webpack --watch",
-    "build":"webpack"
+    "watch": "webpack --watch",
+    "build": "webpack"
   },
   "repository": {
     "type": "git",
@@ -20,6 +20,9 @@
   },
   "homepage": "https://github.com/Oghenebrume50/restuarantJS#readme",
   "devDependencies": {
+    "eslint": "^6.1.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.18.2",
     "webpack": "^4.39.2",
     "webpack-cli": "^3.3.6"
   }
