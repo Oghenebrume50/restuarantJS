@@ -26,3 +26,11 @@ nav div {
   width: 10em;
   height: 10em;
 }
+
+button {
+  width: 6em;
+  height: 2em;
+  border-radius: .3em;
+  outline: none;
+  border: none;
+}
