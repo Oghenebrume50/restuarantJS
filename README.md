@@ -8,4 +8,4 @@ This is a bare-bone restuarant project that focuses on using javascript module f
 
 ### To view the project online
 
-1. Follow this [link]()
+1. Follow this [link](https://oghenebrume50.github.io/restuarantJS/dist/index.html)
